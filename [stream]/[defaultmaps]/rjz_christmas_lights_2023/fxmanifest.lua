@@ -1,0 +1,6 @@
+fx_version 'cerulean'
+game 'gta5'
+author 'rojizo'
+description 'rjz_christmas_lights_2023'
+this_is_a_map 'yes'
+dependency '/assetpacks'

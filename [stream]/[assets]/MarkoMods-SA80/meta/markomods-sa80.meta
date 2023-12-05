@@ -321,7 +321,7 @@
 						</Item>
 						<Item>
 						  <Name>COMPONENT_MARKOMODS_SHARED_FLASH_07</Name>
-						  <Default value="false" />
+						  <Default value="true" />
 						</Item>
 					  </Components>
 					</Item>
@@ -408,11 +408,11 @@
 						</Item>
 						<Item>
 						  <Name>COMPONENT_MARKOMODS_SA80_SCOPE_02</Name>
-						  <Default value="true" />
+						  <Default value="false" />
 						</Item>
 						<Item>
 						  <Name>COMPONENT_MARKOMODS_SHARED_SCOPE_01</Name>
-						  <Default value="false" />
+						  <Default value="true" />
 						</Item>
 						<Item>
 						  <Name>COMPONENT_MARKOMODS_SHARED_SCOPE_02</Name>

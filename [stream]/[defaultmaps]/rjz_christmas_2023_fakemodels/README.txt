@@ -1,0 +1,2 @@
+The protection of the asset escrow block the visualization of models in codewalker, so I'm making these fake models available, so you can add/remove the props yourself.
+These fake models should not be streamed on FiveM, they should only be used for .ymap changes using codewalker.
