@@ -19,6 +19,8 @@ data_file 'TIMECYCLEMOD_FILE' 'timecycle/w_snowlight.xml'
 data_file 'TIMECYCLEMOD_FILE' 'timecycle/w_xmas.xml'
 
 files {
+	'visualsettings.dat',
+	'hbaosettings.xml',
     "meta/gta5.meta",
     "meta/weather.xml",
 	"meta/doortuning.ymt",
